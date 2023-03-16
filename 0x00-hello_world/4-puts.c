@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Define the main function
+ * main - Defines the main function
  */
 int main(void)
 {
